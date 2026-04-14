@@ -1,0 +1,9 @@
+﻿GroupName,GroupScope,GroupCategory,Description,MemberOfGroup
+GRP_Support,Global,Security,Groupe de support informatique,IT
+GRP_RH,Global,Security,Équipe ressources humaines,Utilisateurs
+GRP_Recrutement,Global,Security,Équipe de recrutement,RH
+GRP_Commercial,Global,Security,Équipe commerciale,Utilisateurs
+GRP_Marketing,Global,Security,Équipe marketing,Utilisateurs
+GRP_B2B,Global,Security,Équipe Business to Business,Commercial
+GRP_B2C,Global,Security,Équipe Business to Consumer,Commercial
+GRP_Communication,Global,Security,Équipe de communication,Marketing

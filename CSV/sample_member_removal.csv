@@ -1,0 +1,5 @@
+﻿SourceGroup,Login,MemberGroup
+GRP_Developpement,jdoe,
+GRP_Support,jsmith,
+GRP_Tous_Utilisateurs,,GRP_Support
+GRP_Infrastructure,asmith,GRP_Developpement
