@@ -1,5 +1,7 @@
 <h1 align="center">Manager PowerShell pour Windows Active Directory</h1>
 
+Les scripts peuvent être utilisés seuls ou depuis le manager.
+
 <details>
   <summary><h2>Prérequis</h2></summary>
 
