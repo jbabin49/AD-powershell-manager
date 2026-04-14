@@ -1,6 +1,4 @@
-<h1 align="center">PowerShell & Active Directory</h1>
-
-<h2 align="center"><a href="https://github.com/O-clock-Andromede/SB04E05-Atelier-Powershell-et-AD-jbabin49/blob/master/Enonce_Atelier.md">Énoncé de l'atelier</a></h2>
+<h1 align="center">Manager PowerShell pour Windows Active Directory</h1>
 
 <details>
   <summary><h2>Prérequis</h2></summary>
